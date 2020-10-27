@@ -2,3 +2,5 @@ Poniendo a punto el gestor de intérpretes de Ruby
 
 Las ramas locales son doc y master.
 La rama remota es ghp03/master.
+
+El HEAD ahora apunta al commit número 4 que es el último que se había hecho en la rama doc (Grafo con la rama doc).
