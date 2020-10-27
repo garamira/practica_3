@@ -1,1 +1,4 @@
 Poniendo a punto el gestor de intérpretes de Ruby
+
+Las ramas locales son doc y master.
+La rama remota es ghp03/master.
